@@ -1,0 +1,1 @@
+#   if არის true , elif aris false,else aris yvela sxva shemtxveva

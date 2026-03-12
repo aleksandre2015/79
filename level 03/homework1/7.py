@@ -1,0 +1,13 @@
+hdaguftgusfhfyutaofuyasgfyugsggftt=-67
+aguddddddddddddadytoagydiuftadiaftd7sr7=-9.6
+print(hdaguftgusfhfyutaofuyasgfyugsggftt+aguddddddddddddadytoagydiuftadiaftd7sr7)
+print(hdaguftgusfhfyutaofuyasgfyugsggftt-aguddddddddddddadytoagydiuftadiaftd7sr7)
+print(hdaguftgusfhfyutaofuyasgfyugsggftt*aguddddddddddddadytoagydiuftadiaftd7sr7)
+print(hdaguftgusfhfyutaofuyasgfyugsggftt/aguddddddddddddadytoagydiuftadiaftd7sr7)
+print(hdaguftgusfhfyutaofuyasgfyugsggftt**aguddddddddddddadytoagydiuftadiaftd7sr7)
+
+
+
+
+
+

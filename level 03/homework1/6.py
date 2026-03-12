@@ -1,0 +1,4 @@
+ajhduy=2
+dioywstafuil=1
+fasgftygvsffhsgsfsaftafvfsi=0
+print(ajhduy+dioywstafuil+fasgftygvsffhsgsfsaftafvfsi)
