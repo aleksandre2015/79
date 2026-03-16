@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- maxlength -> მაქსიმალური character ების რაოდენობას უწერს ინფუთს -->
+    <!-- minlength -> მინიმალურ character ების რაოდენობას უწერს ინფუთს-->
+    <!-- name -> ანიშნებს სერვერს რომელ column შ გადააგზავნოს ეს კონკრეტული ინფუთ, ჯერჯერობიუთ უბრალოთ კარგი პრაქტიკის სახით გაუწერეთ ინფუთებს -->
+    <!-- reqiured -> ხდის ინფუთის შევსებას აუცილებელს-->
+
+    
+        <h1>feedback</h1>
+        <form>
+            <label for="name"> name:</label><br>
+            <input type="text" id="name" name="name" maxlength="24" minlength="3"
+                required><br><br>
+
+            <label for="comments">comments:</label><br>
+            <input type="text" id="comment" 
+             name="comment" 
+                required><br><br>
+
+        
+
+            <label for="female">excellent</label>
+            <input type="radio" name="gender" id="female" required>
+            <br>
+            <label for="male">good</label>
+            <input type="radio" name="gender" id="male"  required><br><br>
+          <label for="female">averange</label>
+            <input type="radio" name="gender" id="female" required>
+             <label for="female">poor</label>
+            <input type="radio" name="gender" id="female" required>
+
+
+
+
+
+
+
+            <input type="submit">  
+        </form>
+   
+</body>
+
+</html>
