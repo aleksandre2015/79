@@ -1,0 +1,47 @@
+<!-- 
+9. შექმენი HTML ფაილი, სადაც იქნება 4 სხვადასხვა ტექსტი. გამოიყენე internal CSS და:
+- თითოეულ ტექსტს განსხვავებული text-align
+- განსხვავებული ფერი
+- განსხვავებული ზომა -->
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal CSS</title>
+
+    <style>
+        .რიკა {
+            color: red;
+            font-size: 20px;
+            text-align: left;
+        }
+
+        .სნიკა {
+            color: blue;
+            font-size: 24px;
+            text-align: center;
+        }
+
+        .ნიგგა {
+            color: green;
+            font-size: 28px;
+            text-align: right;
+        }
+
+        .სიგმა {
+            color: purple;
+            font-size: 32px;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <p class="რიკა">პირველი ტექსტი</p>
+    <p class="სნიკა">მეორე ტექსტი</p>
+    <p class="ნიგგა">მესამე ტექსტი</p>
+    <p class="სიგმა">მეოთხე ტექსტი</p>
+
+</body>
+</html>
