@@ -1,0 +1,7 @@
+/* (underline), solid სტილით, coral ფერით და 5px სისქით. --> */
+
+
+a{
+    text-decoration: solid coral underline;
+    text-decoration-thickness: 5px;
+}

@@ -1,0 +1,6 @@
+span{  
+    text-decoration: wavy rgb(255, 0, 255) line-through;
+    text-decoration-thickness:5px ;
+}
+
+/* უა ხაზი (`line-through`), `wavy` სტილით, `rgb(255, 0, 255)` ფერით და `5px` სისქით. --> */

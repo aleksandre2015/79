@@ -1,0 +1,6 @@
+p{
+    text-decoration: dotted purple underline ;
+    text-decoration-thickness: 3px;
+}
+
+/* (`underline`), `dotted` სტილით, `purple` ფერით და `3px` სისქით. --> */

@@ -1,0 +1,5 @@
+/* line-through), dashed სტილით და crimson ფერით. --> */
+/* <!DOCTYPE html> */
+h2{
+    text-decoration: dashed crimson line-through;
+}

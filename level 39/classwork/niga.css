@@ -1,0 +1,9 @@
+h4{
+    text-decoration: dashed #00bfff overline;
+    text-decoration-thickness: 4px;
+}
+
+
+
+
+/* ერეთ ზედა ხაზი (`overline`), `dashed` სტილით, `#00BFFF` ფერით და `4px` სისქით. --> */
