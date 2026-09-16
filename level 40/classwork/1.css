@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sundanese:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caacupe+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+
+
+
+
+
+
+#p1{
+    font-family: "Noto Sans Sundanese";
+}
+
+
+#p2{
+    font-family: "Caacupe One";
+}
+
+
+#p3{
+    font-family: "Noto Sans JP";
+}
+
+#p4{
+    font-family:"Archivo Black"
+     ;
+}
+
+#p5{
+    font-family:"Comic Relief" ;
+}
