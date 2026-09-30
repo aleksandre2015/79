@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.box {
+    width: 200px;
+    height: 150px;
+    background: green;
+    position: relative;
+}
+
+.pirveli {
+    width: 130px;
+    height: 105px;
+    background: #176c7a;
+    position: absolute;
+    left: 30px;
+    top: 25px;
+}
+
+.meore {
+    width: 70px;
+    height: 70px;
+    background: orange;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
