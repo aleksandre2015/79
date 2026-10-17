@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f8d34f;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    width: 305px;
+    background: white;
+    border: 1px solid #222;
+    border-radius: 17px;
+    padding: 18px;
+    box-shadow: 7px 8px 0 #111;
+}
+
+.image {
+    height: 158px;
+    background: #f8d34f;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+.black-circle {
+    position: absolute;
+    width: 75px;
+    height: 110px;
+    background: #111;
+    border-radius: 50%;
+    left: 90px;
+    top: -5px;
+}
+
+.white-circle {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    left: 32px;
+    top: -3px;
+}
+
+.white-circle.second {
+    width: 72px;
+    height: 105px;
+    left: 135px;
+    top: -5px;
+}
+
+.code {
+    position: absolute;
+    left: 35px;
+    top: 35px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #111;
+}
+
+
+.tag {
+    display: inline-block;
+    background: #f8d34f;
+    padding: 5px 10px;
+    margin-top: 18px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.date {
+    margin-top: 12px;
+    font-size: 11px;
+    color: #555;
+}
+
+h1 {
+    margin-top: 14px;
+    font-size: 20px;
+    color: #151515;
+}
+
+.text {
+    margin-top: 14px;
+    color: #787878;
+    font-size: 12px;
+    line-height: 1.55;
+}
+
+.author {
+    margin-top: 17px;
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 11px;
+}
+
+.avatar {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+}

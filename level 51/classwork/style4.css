@@ -1,0 +1,19 @@
+.box {
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzqmvWOSDYfy8GNdYR3DKii72xdR4PNiZwrzWUWTACFg&s=10");
+    background-repeat: no-repeat;
+}
+
+.first {
+    background-position: top left;
+}
+
+.second {
+    background-position: center;
+}
+
+.third {
+    background-position: bottom right;
+}

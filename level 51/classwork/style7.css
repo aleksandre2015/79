@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3S6TX0NfOcDxFQRvLChDsq1sQ1zehmD716Dva69YsBg&s=10");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.box {
+    height: 300px;
+    margin: 20px;
+    background-color: lightblue;
+}
