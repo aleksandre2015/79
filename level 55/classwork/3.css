@@ -1,0 +1,24 @@
+.move {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+
+    animation-name: moveSquare;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes moveSquare {
+    0% {
+        left: 0px;
+    }
+
+    50% {
+        left: 300px;
+    }
+
+    100% {
+        left: 0px;
+    }
+}
